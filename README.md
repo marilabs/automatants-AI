@@ -5,6 +5,8 @@ My take on some exercises from the Automatants association at CentraleSupélec
 
 ## Formations
 
+[TP sur les réseaux neuronaux](https://github.com/marilabs/automatants-AI/blob/main/Formations/tp_nn_sujet.ipynb)
+
 ## TPs
 
 
